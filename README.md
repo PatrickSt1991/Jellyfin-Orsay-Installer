@@ -7,11 +7,7 @@
 <div align="center">
   <p>A simple cross-platform installer to package and install the **Jellyfin Orsay widget** on Samsung Smart TVs (2011–2015).</p>
 
-  <img src="https://img.shields.io/badge/✅_Supports_all_Tizen_versions-blue?style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/😤_Tired_of_the_certificate_error%3F-You're_in_the_right_place!-brightgreen?style=for-the-badge" />
   <a href="https://discord.gg/7mga3zh8Cv"><img src="https://img.shields.io/badge/Ask%20it%20on%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Samsung_TV-Jellyfin_Plugins_Supported-7E57C2?style=for-the-badge&logo=samsung&logoColor=white" />
-  <img src="https://img.shields.io/badge/Made_the_Impossible-Jellyfin_Plugins_on_Samsung_TV-black?style=for-the-badge&logo=jellyfin&logoColor=white" />
 
   ![OS Support](https://img.shields.io/badge/Windows-Alpha-yellow?style=for-the-badge)
   ![OS Support](https://img.shields.io/badge/Linux-Alpha-yellow?style=for-the-badge)
