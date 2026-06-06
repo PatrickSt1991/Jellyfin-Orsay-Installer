@@ -1,6 +1,8 @@
 # Jellyfin 2 Samsung (Orsay)
 
-## This Orsay version isn't maintained  anymore. You can find the Tizen version here https://github.com/Jellyfin2Samsung/Samsung-Jellyfin-Installer
+> ⚠️ **This project is no longer maintained.** Samsung Orsay-based TVs are end-of-life
+> and no longer supported. For current Samsung Tizen TVs, projectors and smart monitors, use
+> [Apps2Samsung](https://github.com/Apps2Samsung/Apps2Samsung).
 
 <p align="center">
   <img src="https://github.com/PatrickSt1991/Samsung-Jellyfin-Installer/blob/master/.github/jellyfin-tizen-logo.svg" width="250" height="250" />
